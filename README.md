@@ -50,7 +50,7 @@ needed.
 #### Project Rubik
 - Design Diagram – 50 Marks
 - Python Implementation – 170 Marks<br/>
-  -- Naming Conventions doc strings and Comments<br/>
-  -- Method Implementation<br/>
-  -- Data Structures</br>
+  - Naming Conventions doc strings and Comments<br/>
+  - Method Implementation<br/>
+  - Data Structures</br>
 - Creativity – 30 Mark
